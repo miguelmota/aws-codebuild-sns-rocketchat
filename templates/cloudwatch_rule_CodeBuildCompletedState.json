@@ -1,0 +1,6 @@
+{
+    "Arn": "arn:aws:events:us-east-1:845705745671:rule/CodeBuildCompletedState",
+    "EventPattern": "{\"source\":[\"aws.codebuild\"],\"detail-type\":[\"CodeBuild Build State Change\"],\"detail\":{\"build-status\":[\"FAILED\",\"SUCCEEDED\",\"STOPPED\",\"IN_PROGRESS\"]}}",
+    "State": "ENABLED",
+    "Name": "CodeBuildCompletedState"
+}

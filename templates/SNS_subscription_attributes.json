@@ -1,0 +1,11 @@
+{
+    "Attributes": {
+        "RawMessageDelivery": "false",
+        "Endpoint": "someone@example.com",
+        "SubscriptionArn": "arn:aws:sns:us-east-1:845705745671:CodeBuildTopic:e11caefe-8334-4326-a932-5fd9ee2d97fb",
+        "TopicArn": "arn:aws:sns:us-east-1:845705745671:CodeBuildTopic",
+        "ConfirmationWasAuthenticated": "false",
+        "Protocol": "email",
+        "Owner": "845705745673"
+    }
+}
