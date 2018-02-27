@@ -1,0 +1,16 @@
+{
+    "Targets": [
+        {
+            "InputTransformer": {
+                "InputPathsMap": {
+                    "build-id": "$.detail.build-id",
+                    "build-status": "$.detail.build-status",
+                    "project-name": "$.detail.project-name"
+                },
+                "InputTemplate": "\"Build '<build-id>' for build project '<project-name>' has reached the build status of '<build-status>'.\"\n"
+            },
+            "Arn": "arn:aws:sns:us-east-1:845705745671:CodeBuildTopic",
+            "Id": "Id399410560725"
+        }
+    ]
+}
