@@ -15,6 +15,7 @@
 
 - [Build Notifications Sample for AWS CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/sample-build-notifications.html)
 - [How To Set Up A Slack Channel To Be An AWS SNS Subscriber](https://medium.com/cohealo-engineering/how-set-up-a-slack-channel-to-be-an-aws-sns-subscriber-63b4d57ad3ea)
+- [Rocket.Chat REST API](https://rocket.chat/docs/developer-guides/rest-api/)
 
 ## License
 
